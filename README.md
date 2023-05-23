@@ -1,5 +1,5 @@
 # Hola! soy Leonel Behnke
-### _o griimreaper en esta plataforma_
+### Tambien conocido como _griimreaper_ en esta plataforma
 
 ## ¿Quién soy?
 Soy un programador Fullstack orientado al mundo del Back-end y a la estructura de datos.
