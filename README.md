@@ -25,6 +25,8 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
   - AJAX
   - Routing
   - Formularios
+
+![React](https://banner2.cleanpng.com/20180720/zia/kisspng-react-javascript-library-web-development-vue-js-funding-icon-5b51604fbf7995.0841849115320597277843.jpg)
 - **Back-end:**
   - Node
   - Auth
@@ -37,8 +39,9 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
 - **DataBases:**
   - PostgreSQL
   - MongoDB
+  - 
 
-Entre estas herramientas, también dispongo de conocimientos sólidos sobre Jira, Git y metodologías ágiles (SCRUM).:penguin:
+Entre estas herramientas, también dispongo de conocimientos sólidos sobre Jira, Git y metodologías ágiles (SCRUM).:rugby_football:
 
 Además, tengo experiencia en herramientas de diseño como Photoshop, Figma y After Effects.
 
