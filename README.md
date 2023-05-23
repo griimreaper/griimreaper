@@ -1,7 +1,9 @@
-<h1> Hola! soy Leonel Behnke <h1> 
-<h2> o griimreaper en esta plataforma <h2>
+<h1> Hola! soy Leonel Behnke </h1> 
+<p> o griimreaper en esta plataforma </p>
 
-Embark on an extraordinary journey with me, where innovation and technology join in to create captivating web applications. With tecnologies what JavaScript, ReactJS, Node.js, Express, Nest, Sequelize, and PostgreSQL, we push boundaries and unlock new possibilities. Together, let's shape a brighter future through software development.
+<h2>¿Quien soy?</h2>
+  <p> Soy un programador Fullstack orientado al mundo del Back-end y a la estructura de datos</p>
+Desde niño siempre fui muy curioso del por que de las cosas, cuando mis padres me preguntaban que quería ser cuando sea grande, yo les respondía que quería ser creador de juegos, esa pasión la tengo patente hasta la actualidad y es a lo que me quiero dedicar.
 
 <p align="center">
   <img src="https://78.media.tumblr.com/69b74540b716c22f78bacdff91f02bf2/tumblr_inline_p80m8wJkm61r4kz8i_540.gif" alt="GIF_jc" width="500"/>
