@@ -53,7 +53,7 @@ Además, tengo experiencia en herramientas de diseño como Photoshop, Figma y Af
 
 ## ¡No dudes en contactarme!
 
-LinkedIn: [Leonel Behnke](https://www.linkedin.com/in/leonelbehnkedev/)
+[LinkedIn](https://www.linkedin.com/in/leonelbehnkedev/)
 
 Correo: [leonelbehnke@gmail.com](mailto:leonelbehnke@gmail.com)
 
