@@ -25,8 +25,9 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
   - AJAX
   - Routing
   - Formularios
-
+<p align="center">
 <img src="https://banner2.cleanpng.com/20180720/zia/kisspng-react-javascript-library-web-development-vue-js-funding-icon-5b51604fbf7995.0841849115320597277843.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png](https://tse4.mm.bing.net/th?id=OIP.bP0hgGZpia_YWGJDHmmiIQHaHa&pid=Api&P=0&h=180)" alt="React"/>
+  </p>
 
 - **Back-end:**
   - Node
