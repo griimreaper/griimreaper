@@ -14,6 +14,29 @@ Estoy plenamente enfocado crecer tanto personal como profesionalmente.
 
 Lo que mas me agrada en este mundo de *planificar*, *resolver*, *diseñar*, *comunicar*, *entender*.
 **Es que ese mundo lo encontre en el codigo y es a lo que apunto en mi vida.**
+
+## **¿Cuales son mis habilidades?**
+*Front-end:
+  *React
+  *Redux
+  *DOM
+  *ES6
+  *AJAX
+  *Routing
+  *Formularios
+*Back-end:
+  *Node
+  *Auth
+  *Sequelize
+  *Express
+  *PostgreSQL
+  *Servidor web
+  *Nest.js
+  *TypeScript
+*DataBases:
+  *PostgreSQL
+  *MongoDb
+
 <p align="center">
   <img src="https://78.media.tumblr.com/69b74540b716c22f78bacdff91f02bf2/tumblr_inline_p80m8wJkm61r4kz8i_540.gif" alt="GIF_jc" width="500"/>
 </p>
