@@ -1,5 +1,5 @@
 <h1> Hola! soy Leonel Behnke <h1> 
-
+<h2> o griimreaper en esta plataforma <h2>
 
 Embark on an extraordinary journey with me, where innovation and technology join in to create captivating web applications. With tecnologies what JavaScript, ReactJS, Node.js, Express, Nest, Sequelize, and PostgreSQL, we push boundaries and unlock new possibilities. Together, let's shape a brighter future through software development.
 
