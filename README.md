@@ -2,7 +2,7 @@
 ### Tambien conocido como _griimreaper_ en esta plataforma
 
 ## ¿Quién soy?
-Soy un #Programador _Fullstack_# orientado al mundo del _#Back-end#_ y a la estructura de datos.
+Soy un #Programador _Fullstack_ orientado al mundo del _#Back-end_ y a la estructura de datos.
 
 Desde niño siempre fui muy curioso del por qué de las cosas. Cuando mis padres me preguntaban qué quería ser cuando sea grande, yo les respondía que quería ser creador de juegos. Esa pasión la tengo presente hasta la actualidad y es a lo que me quiero dedicar.
 
