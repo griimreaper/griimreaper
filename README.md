@@ -6,10 +6,10 @@ Soy un **Programador** ***Fullstack*** orientado al mundo del ***Back-end*** y a
 
 Desde niño siempre fui muy curioso del por qué de las cosas. Cuando mis padres me preguntaban qué quería ser cuando sea grande, yo les respondía que quería ser creador de juegos. Esa pasión la tengo presente hasta la actualidad y es a lo que me quiero dedicar.
 
-##**¿Que hago?**
+## **¿Que hago?**
 Actualmente me estoy enfocando en realizar proyectos que me permitan formarme como programador.**Siempre busco trabajar en equipo para entender a fondo cada código y lograr una eficacia del 100%**
 
-##¿A donde me dirijo?
+## **¿A donde me dirijo?***
 Estoy plenamente enfocado crecer tanto personal como profesionalmente.
 
 
