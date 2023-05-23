@@ -25,6 +25,8 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
   - AJAX
   - Routing
   - Formularios
+
+
 🌐 **Back-end:** 
   - Node
   - Auth
@@ -34,6 +36,8 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
   - Servidor web
   - Nest.js
   - TypeScript
+
+
 📂 **DataBases:**
   - PostgreSQL
   - MongoDB
