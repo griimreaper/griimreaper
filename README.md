@@ -58,4 +58,4 @@ Correo: [**leonelbehnke@gmail.com**](mailto:leonelbehnke@gmail.com)
 
 *Es un recordatorio valioso de que el trabajo en equipo y la armonía son fundamentales para alcanzar el éxito y superar los desafíos.*
 
-
+¡Gracias por tu tiempo! Estoy emocionado de formar parte de equipos desafiantes y contribuir con soluciones innovadoras. No dudes en contactarme para discutir oportunidades laborales o proyectos interesantes.
