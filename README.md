@@ -16,10 +16,10 @@ Lo que mas me agrada en este mundo de *planificar*, *resolver*, *diseñar*, *com
 **Es que ese mundo lo encontre en el codigo y es a lo que apunto en mi vida.**
 
 ## **¿Cuales son mis habilidades?**
--Front-end:
-  -React
-  -Redux
-  -DOM
++Front-end:
+  +React
+  +Redux
+  +DOM
   -ES6
   -AJAX
   -Routing
