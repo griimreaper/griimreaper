@@ -9,7 +9,7 @@ Desde niño siempre fui muy curioso acerca del por qué de las cosas. Cuando mis
 ## **¿Qué hago?**
 Actualmente me estoy enfocando en realizar proyectos que me permitan formarme como programador. Siempre busco trabajar en equipo para entender a fondo cada código y lograr una eficacia del 100%.
 
-## **¿A dónde me dirijo?**
+##🚀  **¿A dónde me dirijo?** 🚀
 Estoy plenamente enfocado en crecer tanto personal como profesionalmente.
 
 Lo que más me agrada en este mundo de planificar, resolver, diseñar, comunicar y entender es que encontré ese mundo en el código, y es a lo que apunto en mi vida.
