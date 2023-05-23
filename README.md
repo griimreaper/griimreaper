@@ -17,6 +17,8 @@ Lo que mas me agrada en este mundo de *planificar*, *resolver*, *diseñar*, *com
 
 ## **¿Cuáles son mis habilidades?**
 Durante mi curso en el **Bootcamp de** ***Henry*** pude aprender varias tecnologias y herramientas totalmente utiles para el *desarrollo web* y la creacion de *servidores*.
+Ademas, tambien pude desarrolar varias habilidades blandas como la comunicacion acertiva, el trabajo en equipo y la gestion del tiempo.
+
 - **Front-end:**
   - React                                         
   - Redux                                                               
@@ -38,10 +40,18 @@ Durante mi curso en el **Bootcamp de** ***Henry*** pude aprender varias tecnolog
   - PostgreSQL                                                          
   - MongoDB                                                       
 
-Entre estas herramientas tambien dispongo de conocimientos sobre Jira y metodologias agiles(SCRUM)
+Entre estas herramientas tambien dispongo de conocimientos sobre *Jira* y metodologias agiles(**SCRUM**)
 
 <p align="center">
   <img src="https://78.media.tumblr.com/69b74540b716c22f78bacdff91f02bf2/tumblr_inline_p80m8wJkm61r4kz8i_540.gif" alt="GIF_jc" width="500"/>
 </p>
+
+##No dudes en contactarme!
+
+[Linkedin](https://www.linkedin.com/in/leonelbehnkedev/)
+Correo:([**leonelbehnke@gmail.com**](mailto:leonelbehnke@gmail.com))
+*"La unión hace la fuerza; la discordia hace la debilidad."* - Séneca
+
+Es un recordatorio valioso de que el trabajo en equipo y la armonía son fundamentales para alcanzar el éxito y superar los desafíos.
 
 
