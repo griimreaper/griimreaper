@@ -26,7 +26,8 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
   - Routing
   - Formularios
 
-![React]([https://banner2.cleanpng.com/20180720/zia/kisspng-react-javascript-library-web-development-vue-js-funding-icon-5b51604fbf7995.0841849115320597277843.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png))
+<img src="https://banner2.cleanpng.com/20180720/zia/kisspng-react-javascript-library-web-development-vue-js-funding-icon-5b51604fbf7995.0841849115320597277843.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" alt="React"/>
+
 - **Back-end:**
   - Node
   - Auth
@@ -61,5 +62,7 @@ Correo: [leonelbehnke@gmail.com](mailto:leonelbehnke@gmail.com)
 
 ---
 
-**¡Gracias por tu tiempo!** Estoy emocionado de formar parte de equipos desafiantes y contribuir con soluciones innovadoras. Contáctame para discutir oportunidades laborales o proyectos interesantes.
+**¡Gracias por tu tiempo!** Estoy emocionado de formar parte de equipos desafiantes y contribuir con soluciones innovadoras. 
+
+Contáctame para discutir oportunidades laborales o proyectos interesantes.
 
