@@ -40,7 +40,8 @@ Ademas, tambien pude desarrolar varias habilidades blandas como la comunicacion 
   - PostgreSQL                                                          
   - MongoDB                                                       
 
-Entre estas herramientas tambien dispongo de conocimientos sobre *Jira* y metodologias agiles(**SCRUM**).
+Entre estas herramientas tambien dispongo de conocimiento solido sobre *Jira*, *Git* y metodologias agiles(**SCRUM**).
+
 Y otras de diseño como *Photoshop*, *Figma*, *After Effects*.
 
 <p align="center">
