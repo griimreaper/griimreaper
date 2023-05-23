@@ -38,7 +38,7 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
   - PostgreSQL
   - MongoDB
 
-Entre estas herramientas, también dispongo de conocimientos sólidos sobre Jira, Git y metodologías ágiles (SCRUM).
+Entre estas herramientas, también dispongo de conocimientos sólidos sobre Jira, Git y metodologías ágiles (SCRUM).:penguin:
 
 Además, tengo experiencia en herramientas de diseño como Photoshop, Figma y After Effects.
 
