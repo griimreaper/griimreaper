@@ -17,7 +17,7 @@ Lo que más me agrada en este mundo de planificar, resolver, diseñar, comunicar
 ## **¿Cuáles son mis habilidades?**
 Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías y herramientas totalmente útiles para el desarrollo web y la creación de servidores. Además, también pude desarrollar habilidades blandas como la comunicación asertiva, el trabajo en equipo y la gestión del tiempo.
 
-🖥️ **Front-end:** 🖥️
+🖥️ **Front-end:** 
   - React
   - Redux
   - DOM
@@ -25,7 +25,7 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
   - AJAX
   - Routing
   - Formularios
-- **Back-end:**
+🌐 **Back-end:** 
   - Node
   - Auth
   - Sequelize
@@ -34,7 +34,7 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
   - Servidor web
   - Nest.js
   - TypeScript
-- **DataBases:**
+📂 **DataBases:**
   - PostgreSQL
   - MongoDB
 
