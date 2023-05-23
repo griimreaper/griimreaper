@@ -57,6 +57,8 @@ LinkedIn: [Leonel Behnke](https://www.linkedin.com/in/leonelbehnkedev/)
 
 Correo: [leonelbehnke@gmail.com](mailto:leonelbehnke@gmail.com)
 
+--
+
 *"La unión hace la fuerza; la discordia hace la debilidad."* - ***Séneca***
 
 *Es un recordatorio valioso de que el trabajo en equipo y la armonía son fundamentales para alcanzar el éxito y superar los desafíos.*
