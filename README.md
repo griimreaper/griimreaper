@@ -58,5 +58,5 @@ Correo: [leonelbehnke@gmail.com](mailto:leonelbehnke@gmail.com)
 
 ---
 
-¡Gracias por tu tiempo! Estoy emocionado de formar parte de equipos desafiantes y contribuir con soluciones innovadoras. Contáctame para discutir oportunidades laborales o proyectos interesantes.
+**¡Gracias por tu tiempo!** Estoy emocionado de formar parte de equipos desafiantes y contribuir con soluciones innovadoras. Contáctame para discutir oportunidades laborales o proyectos interesantes.
 
