@@ -16,27 +16,27 @@ Lo que mas me agrada en este mundo de *planificar*, *resolver*, *diseñar*, *com
 **Es que ese mundo lo encontre en el codigo y es a lo que apunto en mi vida.**
 
 ## **¿Cuáles son mis habilidades?**
-Durante mi curso en el bootcamp de Henry pude aprender varias tecnologias y herramientas totalmente utiles para el desarrollo web y la creacion de servidores
-- Front-end:
-  - React                                                                 Entre
-  - Redux                                                               estas   
-  - DOM                                                           herramientas
-  - ES6                                                            tambien
-  - AJAX                                                           dispongo
-  - Routing                                                           de
-  - Formularios                                                      conocimientos     
-- Back-end:                                                           
-  - Node                                                           sobre
+Durante mi curso en el **Bootcamp de** ***Henry*** pude aprender varias tecnologias y herramientas totalmente utiles para el *desarrollo web* y la creacion de *servidores*.
+- **Front-end:**
+  - React                                         
+  - Redux                                                               
+  - DOM                                                        
+  - ES6                                                         
+  - AJAX
+  - Routing                                        
+  - Formularios                           
+- **Back-end:**                                                     
+  - Node                                        
   - Auth                                                        
-  - Sequelize                                                         Jira  
+  - Sequelize                                          
   - Express                                                       
-  - PostgreSQL                                                      y       
+  - PostgreSQL                                          
   - Servidor web                                                           
-  - Nest.js                                                     metodologias      
+  - Nest.js                                   
   - TypeScript                                                           
-- DataBases:                                                    agiles 
+- **DataBases:**                                                
   - PostgreSQL                                                          
-  - MongoDB                                                         SCRUM  
+  - MongoDB                                                       
 
 Entre estas herramientas tambien dispongo de conocimientos sobre Jira y metodologias agiles(SCRUM)
 
