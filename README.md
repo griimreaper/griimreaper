@@ -1,5 +1,5 @@
 # **¡Hola! me llamo Leonel Behnke**
-### También conocido como _griimreaper_ en GitHub
+### También conocido como _griimreaper_ en GitHub o en algunas plataformas de juego.
 
 ## **¿Quién soy?**
 Soy un **Programador** ***Fullstack*** orientado al mundo del ***Back-end*** y a la estructura de datos.
