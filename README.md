@@ -10,7 +10,7 @@ Desde niño siempre fui muy curioso acerca del por qué de las cosas. Cuando mis
 Actualmente me estoy enfocando en realizar proyectos que me permitan formarme como programador. **Siempre busco trabajar en equipo para entender a fondo cada código y lograr una eficacia del 100%.**
 
 ## 🚀  **¿A dónde me dirijo?** 
-Estoy plenamente enfocado en crecer tanto personal como profesionalmente.
+Estoy plenamente enfocado en aprender constantemente para crecer tanto personal como profesionalmente.
 
 Lo que más me agrada en este mundo de planificar, resolver, diseñar, comunicar y entender es que encontré ese mundo en el código, y es a lo que apunto en mi vida.
 
@@ -20,11 +20,7 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
 🖥️ **Front-end:** 
   - React
   - Redux
-  - DOM
-  - ES6
-  - AJAX
-  - Routing
-  - Formularios
+  - Next
 
 
 🌐 **Back-end:** 
@@ -33,7 +29,6 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
   - Sequelize
   - Express
   - PostgreSQL
-  - Servidor web
   - Nest.js
   - TypeScript
 
@@ -42,9 +37,7 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
   - PostgreSQL
   - MongoDB
 
-
 Entre estas herramientas, también dispongo de conocimientos sólidos sobre *Jira*, *Git* y metodologías ágiles: **SCRUM**. :rugby_football:
-
 Además, tengo experiencia en herramientas de diseño como Photoshop, Figma y After Effects.
 
 <p align="center">
