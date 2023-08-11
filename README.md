@@ -1,6 +1,6 @@
 # **¡Hola! me llamo Leonel Behnke**
 ### También conocido como _griimreaper_ en GitHub.
-[Portfolio]((https://leonelbehnke.vercel.app/))
+[Portfolio](https://leonelbehnke.vercel.app/)
 
 ## **¿Quién soy?**
 Soy un **Programador** ***Fullstack*** orientado al mundo del ***Back-end*** y a la estructura de datos.
