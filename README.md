@@ -3,7 +3,7 @@
 </head>
 <body>
 
-<div class="image-container">
+<div class="image-container" display="flex" justify-content="space-between" align-items="center">
   <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Imagen 1" >
   <img src="https://res.cloudinary.com/ecommercetech/image/upload/v1692683672/Upload/ryxkdptptmwtidcj4gqo.png" alt="Imagen 2" width="600">
 </div>
