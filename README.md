@@ -1,4 +1,4 @@
-<h1 style="text-align: center"> ¡Hola! me llamo Leonel Behnke </h1> 
+<h1 align="center"> ¡Hola! me llamo Leonel Behnke </h1> 
 ### También conocido como _griimreaper_ en GitHub.
 <div style="
  display: flex;
