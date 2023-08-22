@@ -7,7 +7,9 @@
  width: 100%;
 "
 >
-  <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Imagen 1" align="center" width="300">
+ <p align="center">
+  <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Imagen 1"  width="300">
+ </p>
   <img src="https://res.cloudinary.com/ecommercetech/image/upload/v1692683672/Upload/ryxkdptptmwtidcj4gqo.png" style="border: solid 2px black;border-radius: 20%" alt="Imagen 2" align="center" width="720">
 </div>
 
