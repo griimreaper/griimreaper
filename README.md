@@ -1,16 +1,11 @@
 # **¡Hola! me llamo Leonel Behnke** 
 ### También conocido como _griimreaper_ en GitHub.
-<style>
-  .image-container {
-    text-align: center; /* Centrar horizontalmente */
-  }
-</style>
 </head>
 <body>
 
 <div class="image-container">
-  <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Imagen 1" width="300" height="200">
-  <img src="https://res.cloudinary.com/ecommercetech/image/upload/v1692683672/Upload/ryxkdptptmwtidcj4gqo.png" alt="Imagen 2" width="300" height="200">
+  <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Imagen 1" >
+  <img src="https://res.cloudinary.com/ecommercetech/image/upload/v1692683672/Upload/ryxkdptptmwtidcj4gqo.png" alt="Imagen 2">
 </div>
 
 [Portfolio](https://leonelbehnke.vercel.app/)
