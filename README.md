@@ -1,14 +1,25 @@
 # **¡Hola! me llamo Leonel Behnke** 
 ### También conocido como _griimreaper_ en GitHub.
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  .image-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+</style>
 </head>
 <body>
 
-<div class="image-container" display="flex" justify-content="space-between" align-items="center">
-  <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Imagen 1" >
+<div class="image-container">
+  <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Imagen 1">
   <img src="https://res.cloudinary.com/ecommercetech/image/upload/v1692683672/Upload/ryxkdptptmwtidcj4gqo.png" alt="Imagen 2" width="600">
 </div>
 
-[Portfolio](https://leonelbehnke.vercel.app/)
+</body>
+</html>
 
 ## **¿Quién soy?**
 Soy un **Programador** ***Fullstack*** orientado al mundo del ***Back-end*** y a la estructura de datos.
