@@ -3,7 +3,7 @@
 <div style="
  display: flex;
  flex-direction: row;
- justify-content: space-around;
+ justify-content: space-between;
  align-items: flex-start;
  width: 100%"
 >
