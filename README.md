@@ -12,7 +12,6 @@
  </p>
  <p align="center">
   <img src="https://res.cloudinary.com/ecommercetech/image/upload/v1692683672/Upload/ryxkdptptmwtidcj4gqo.png" style="border: solid 6px black;border-radius: 20%" alt="Imagen 2" align="center" width="500">
- <h2 align="center">Mi Portfolio</h2>
  </p>
 </div>
 
