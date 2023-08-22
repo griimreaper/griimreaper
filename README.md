@@ -1,8 +1,8 @@
 # **¡Hola! me llamo Leonel Behnke** 
 ### También conocido como _griimreaper_ en GitHub.
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
   <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Imagen 1">
-  <img src="https://res.cloudinary.com/ecommercetech/image/upload/v1692683672/Upload/ryxkdptptmwtidcj4gqo.png" alt="Imagen 2" width="600">
+  <img src="https://res.cloudinary.com/ecommercetech/image/upload/v1692683672/Upload/ryxkdptptmwtidcj4gqo.png" alt="Imagen 2" width="500">
 </div>
 
 ## **¿Quién soy?**
