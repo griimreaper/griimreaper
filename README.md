@@ -1,8 +1,9 @@
 # **¡Hola! me llamo Leonel Behnke** 
-<p align="center">
+### También conocido como _griimreaper_ en GitHub.
+<p align="left">
   <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="codewars" width="500"/>
 </p>
-### También conocido como _griimreaper_ en GitHub.
+
 [Portfolio](https://leonelbehnke.vercel.app/)
 
 ## **¿Quién soy?**
