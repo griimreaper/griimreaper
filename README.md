@@ -1,5 +1,4 @@
 <h1 align="center"> ¡Hola! me llamo Leonel Behnke </h1> 
-### También conocido como _griimreaper_ en GitHub.
 <div style="
  display: flex;
  flex-direction: row;
@@ -8,7 +7,7 @@
  width: 100%;
  "
 >
-  <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Imagen 1">
+  <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Imagen 1" style="align-items: flex-start">
   <img src="https://res.cloudinary.com/ecommercetech/image/upload/v1692683672/Upload/ryxkdptptmwtidcj4gqo.png" alt="Imagen 2" width="400">
 </div>
 
