@@ -1,6 +1,12 @@
 # **¡Hola! me llamo Leonel Behnke** 
 ### También conocido como _griimreaper_ en GitHub.
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: flex-start; width: full">
+<div style="
+ display: flex;
+ flex-direction: row;
+ justify-content: space-around;
+ align-items: flex-start;
+ width: full"
+>
   <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Imagen 1">
   <img src="https://res.cloudinary.com/ecommercetech/image/upload/v1692683672/Upload/ryxkdptptmwtidcj4gqo.png" alt="Imagen 2" width="400">
 </div>
