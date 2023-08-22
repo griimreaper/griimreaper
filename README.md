@@ -4,11 +4,11 @@
  flex-direction: row;
  justify-content: space-between;
  align-items: flex-start;
- width: 100%;
+ width: "100%";
  "
 >
   <img src="https://www.codewars.com/users/griimreaper/badges/large" alt="Imagen 1" style="align-items: flex-start">
-  <img src="https://res.cloudinary.com/ecommercetech/image/upload/v1692683672/Upload/ryxkdptptmwtidcj4gqo.png" style="border: solid 2px black ;border-radius: 20%" alt="Imagen 2" width="400">
+  <img src="https://res.cloudinary.com/ecommercetech/image/upload/v1692683672/Upload/ryxkdptptmwtidcj4gqo.png" style="border: solid 2px black;border-radius: 20%" alt="Imagen 2" width="400">
 </div>
 
 ## **¿Quién soy?**
