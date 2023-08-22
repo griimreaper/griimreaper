@@ -16,7 +16,7 @@
 </div>
 
 ## **¿Quién soy?**
-Soy un **Programador** ***Fullstack*** orientado al mundo del ***Back-end*** y a la estructura de datos.
+Soy un **Programador** ***Fullstack*** orientado al ***Back-end*** y a la estructura de datos.
 
 Desde niño siempre fui muy curioso acerca del por qué de las cosas. Cuando mis padres me preguntaban qué quería ser cuando sea grande, yo les respondía que quería ser creador de juegos. Esa pasión la tengo presente hasta la actualidad y es a lo que me quiero dedicar.
 
@@ -26,10 +26,10 @@ Actualmente me estoy enfocando en realizar proyectos que me permitan formarme co
 ## 🚀  **¿A dónde me dirijo?** 
 Estoy plenamente enfocado en aprender constantemente para crecer tanto personal como profesionalmente.
 
-Lo que más me agrada en este mundo de planificar, resolver, diseñar, comunicar y entender es que encontré ese mundo en el código, y es a lo que apunto en mi vida.
+Me gusta encontrar soluciones optimas a distintos problemas, unos de mis pasatiempos es resolver acertijos de programación.
 
 ## **¿Cuáles son mis habilidades?**
-Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías y herramientas totalmente útiles para el desarrollo web y la creación de servidores. Además, también pude desarrollar habilidades blandas como la comunicación asertiva, el trabajo en equipo y la gestión del tiempo.
+Dispongo de varias tecnologías y herramientas totalmente útiles para el desarrollo web y la creación de servidores:
 
 🖥️ **Front-end:** 
   - React
@@ -51,7 +51,7 @@ Durante mi curso en el **Bootcamp de Henry**, pude aprender varias tecnologías 
   - PostgreSQL
   - MongoDB
 
-Entre estas herramientas, también dispongo de conocimientos sólidos sobre *Jira*, *Git* y metodologías ágiles: **SCRUM**. :rugby_football:
+Entre estas herramientas, también tengo conocimientos sólidos sobre *Jira*, *Git* y metodologías ágiles: **SCRUM**. :rugby_football:
 Además, tengo experiencia en herramientas de diseño como Photoshop, Figma y After Effects.
 
 <p align="center">
