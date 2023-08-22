@@ -1,7 +1,7 @@
 <h1 align="center"> ¡Hola! me llamo Leonel Behnke </h1> 
 <div style="
  display: flex;
- flex-direction: row;
+ flex-direction: column;
  justify-content: space-between;
  align-items: flex-start;
  width: 100%;
