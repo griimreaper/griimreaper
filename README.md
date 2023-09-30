@@ -58,6 +58,50 @@ Dispongo de varias tecnologías y herramientas totalmente útiles para el desarr
  <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
 </div>
 
+<div align="center">
+    <!-- Frontend Technologies -->
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+        <div>
+            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+            <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+            <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+            <!-- Agrega más tecnologías de frontend aquí -->
+        </div>
+    </div>
+
+    <!-- Backend Technologies -->
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+        <div>
+            <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+            <!-- Agrega más tecnologías de backend aquí -->
+        </div>
+    </div>
+
+    <!-- Lenguajes -->
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+        <div>
+            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+            <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+            <!-- Agrega más lenguajes aquí -->
+        </div>
+    </div>
+
+    <!-- Otras Tecnologías -->
+    <div style="display: flex; flex-wrap: wrap; justify-content: center;">
+        <div>
+            <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
+            <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
+            <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+            <!-- Agrega más tecnologías de otros aquí -->
+        </div>
+    </div>
+</div>
+
 <p align="center">
   <img src="https://78.media.tumblr.com/69b74540b716c22f78bacdff91f02bf2/tumblr_inline_p80m8wJkm61r4kz8i_540.gif" alt="GIF_jc" width="500"/>
 </p>
