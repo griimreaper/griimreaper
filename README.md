@@ -33,7 +33,7 @@ Dispongo de conocimientos sobre varias tecnologías y herramientas totalmente ú
 
 <div align="center">
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-     <h3>Lenguajes</h3>
+     <p>Lenguajes</p>
         <div>
            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
            <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
@@ -42,7 +42,7 @@ Dispongo de conocimientos sobre varias tecnologías y herramientas totalmente ú
         </div>
     </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-     <h3>Front</h3>
+     <p>Front</p>
         <div>
             <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -52,7 +52,7 @@ Dispongo de conocimientos sobre varias tecnologías y herramientas totalmente ú
         </div>
     </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-     <h3>Back</h3>
+     <p>Back</h>
         <div>
             <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
             <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -62,7 +62,7 @@ Dispongo de conocimientos sobre varias tecnologías y herramientas totalmente ú
         </div>
     </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-     <h3>Complementarios</h3>
+     <p>Complementarios</p>
         <div>
             <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"/>
             <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
