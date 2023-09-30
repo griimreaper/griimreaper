@@ -32,7 +32,7 @@ Me gusta encontrar soluciones optimas a distintos problemas, unos de mis pasatie
 Dispongo de varias tecnologías y herramientas totalmente útiles para el desarrollo web y la creación de servidores:
 
 <p align="center">
- <h1>Lenguajes</h1>
+ <h2>Lenguajes</h2>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
