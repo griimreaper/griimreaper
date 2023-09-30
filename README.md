@@ -62,6 +62,7 @@ Dispongo de conocimientos sobre varias tecnologías y herramientas totalmente ú
             <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white"/>
             <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
         </div>
+     <hr style="height: 2px; border: none; background-color: #ccc; margin: 5px 0;">
     </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
      <p>Complementarios</p>
