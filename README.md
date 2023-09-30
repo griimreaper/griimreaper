@@ -31,6 +31,10 @@ Me gusta encontrar soluciones optimas a distintos problemas, unos de mis pasatie
 ## **¿Cuáles son mis habilidades?**
 Dispongo de varias tecnologías y herramientas totalmente útiles para el desarrollo web y la creación de servidores:
 
+<p align="center">
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
 🖥️ **Front-end:** 
   - React
   - Redux
