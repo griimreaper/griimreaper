@@ -32,6 +32,7 @@ Me gusta encontrar soluciones optimas a distintos problemas, unos de mis pasatie
 Dispongo de varias tecnologías y herramientas totalmente útiles para el desarrollo web y la creación de servidores:
 
 <p align="center">
+ <h1>Lenguajes</h1>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -51,31 +52,12 @@ Dispongo de varias tecnologías y herramientas totalmente útiles para el desarr
  <img src="https://img.shields.io/badge/strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white"/>
  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white"/>
  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+ <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
 </p>
-
-🖥️ **Front-end:** 
-  - React
-  - Redux
-  - Next
-
-
-🌐 **Back-end:** 
-  - Node
-  - Auth
-  - Sequelize
-  - Express
-  - PostgreSQL
-  - Nest.js
-  - TypeScript
-
-
-📂 **DataBases:**
-  - PostgreSQL
-  - MongoDB
-
-Entre estas herramientas, también tengo conocimientos sólidos sobre *Jira*, *Git* y metodologías ágiles: **SCRUM**. :rugby_football:
-Además, tengo experiencia en herramientas de diseño como Photoshop, Figma y After Effects.
 
 <p align="center">
   <img src="https://78.media.tumblr.com/69b74540b716c22f78bacdff91f02bf2/tumblr_inline_p80m8wJkm61r4kz8i_540.gif" alt="GIF_jc" width="500"/>
