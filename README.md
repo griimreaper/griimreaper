@@ -40,10 +40,10 @@ Dispongo de conocimientos sobre varias tecnologías y herramientas totalmente ú
            <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
            <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
         </div>
-     <hr></hr>
+     <hr style="height: 2px; border: none; background-color: #ccc; margin: 5px 0;">
     </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-     <p>Front</p>
+     <p>Front-end</p>
         <div>
             <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -51,9 +51,10 @@ Dispongo de conocimientos sobre varias tecnologías y herramientas totalmente ú
             <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
             <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
         </div>
+     <hr style="height: 2px; border: none; background-color: #ccc; margin: 5px 0;">
     </div>
     <div style="display: flex; flex-wrap: wrap; justify-content: center;">
-     <p>Back</h>
+     <p>Back-end</h>
         <div>
             <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
             <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
@@ -77,6 +78,7 @@ Dispongo de conocimientos sobre varias tecnologías y herramientas totalmente ú
             <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
             <img src="https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665"/>
         </div>
+     <hr style="height: 2px; border: none; background-color: #ccc; margin: 5px 0;">
     </div>
 </div>
 
