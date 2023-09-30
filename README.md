@@ -32,7 +32,7 @@ Me gusta encontrar soluciones optimas a distintos problemas, unos de mis pasatie
 Dispongo de conocimientos sobre varias tecnologías y herramientas totalmente útiles para el desarrollo web y la creación de servidores:
 
 <div align="center">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bot: "5px"">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; margin-bottom: "5px"">
      <p>Lenguajes</p>
         <div>
            <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
