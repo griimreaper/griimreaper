@@ -83,10 +83,6 @@ Dispongo de conocimientos sobre varias tecnologías y herramientas totalmente ú
     </div>
 </div>
 
-<p align="center">
-  <img src="https://78.media.tumblr.com/69b74540b716c22f78bacdff91f02bf2/tumblr_inline_p80m8wJkm61r4kz8i_540.gif" alt="GIF_jc" width="500"/>
-</p>
-
 ## ¡No dudes en contactarme!
 
 [LinkedIn](https://www.linkedin.com/in/leonelbehnkedev/)
