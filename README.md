@@ -21,8 +21,6 @@
 ## **¿Quién soy?**
 Soy un **Programador** ***Fullstack*** orientado al ***Back-end*** y a la estructura de datos.
 
-Desde niño siempre fui muy curioso acerca del por qué de las cosas. Cuando mis padres me preguntaban qué quería ser cuando sea grande, yo les respondía que quería ser creador de juegos. Esa pasión la tengo presente hasta la actualidad y es a lo que me quiero dedicar.
-
 ## **¿Qué hago?**
 Actualmente me estoy enfocando en realizar proyectos que me permitan formarme como programador. **Siempre busco trabajar en equipo para entender a fondo cada código y lograr una eficacia del 100%.**
 
