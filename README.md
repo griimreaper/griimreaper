@@ -103,7 +103,3 @@ Estoy abierto a oportunidades laborales, freelancing o colaboraciones en proyect
 ---
 
 **¡Gracias por visitar mi perfil!** Estoy emocionado por conectar y crear algo increíble juntos. ¿Un café virtual? 😊
-
-<div align="center">
-  <img src="https://img.shields.io/badge/⭐-Star_this_repo!-000000?style=for-the-badge&logo=github&logoColor=white" alt="Star Repo"/>
-</div>
