@@ -86,6 +86,20 @@ Conocimientos clave en tecnologías para desarrollo full stack, back-end y más:
 
 </div>
 
+## **Certificaciones**
+<div align="center" style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 20px; width: 100%; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D22AQHRTbhbbPjjmg/feedshare-shrink_1280/feedshare-shrink_1280/0/1688186515388?e=1763596800&v=beta&t=I3yAJum_pJs9ndUcS3LxPRkG7CdbfQ3nnf3uJsiwHAY" alt="Certificado Full Stack Web Developer - Henry" width="350">
+    <br>
+    <small><em>Full Stack Web Developer Bootcamp - Henry (JS, React, Node.js, SQL)</em></small>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D22AQHr6L18Igtfkg/feedshare-shrink_1280/feedshare-shrink_1280/0/1704827953406?e=1763596800&v=beta&t=phsMZ-rBh45rcH6ojVFkoWFw6xpdt9bgChZ-p0dccA4" alt="Certificado JAVA Web Developer - Henry" width="350">
+    <br>
+    <small><em>Java Web Developer - Henry (Spring Boot, OOP, Patrones de Diseño)</em></small>
+  </div>
+</div>
+
 ## **¡No dudes en contactarme!**
 Estoy abierto a oportunidades laborales, freelancing o colaboraciones en proyectos desafiantes. ¡Hablemos de cómo puedo contribuir!
 
