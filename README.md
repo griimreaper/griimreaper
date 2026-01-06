@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://leonelbehnke-portfolio.vercel.app/" target="_blank">
-    <img src="https://media.licdn.com/dms/image/v2/D4D22AQGzu9hmw5aI9g/feedshare-shrink_2048_1536/B4DZsOh8viHQAw-/0/1765475340199?e=1767225600&v=beta&t=fuGY1520PzaX1DAe6uMJK0iUJGfyovaUZ103GNwYHG0" style="border: solid 6px black; border-radius: 20%" alt="Portfolio" width="500">
+    <img src="https://leonelbehnke-portfolio.vercel.app/projects/images/rm.png" style="border: solid 6px black; border-radius: 20%" alt="Portfolio" width="500">
   </a>
 </div>
 
