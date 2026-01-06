@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://leonelbehnke-portfolio.vercel.app/" target="_blank">
-    <img src="https://leonelbehnke-portfolio.vercel.app/projects/images/rm.png" style="border: solid 6px black; border-radius: 20%" alt="Portfolio" width="400">
+    <img src="https://leonelbehnke-portfolio.vercel.app/projects/images/rm.png" style="border: solid 6px black; border-radius: 20%" alt="Portfolio" width="1200">
   </a>
 </div>
 
